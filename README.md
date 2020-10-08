@@ -10,5 +10,7 @@ gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Go
 **Installations:**
 ```
 pip install gTTS
+```
+```
 pip install PyPDF2
 ```
